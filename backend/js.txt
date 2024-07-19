@@ -1,0 +1,3 @@
+//tyC4rMwJNcK0tGZu  -->> password
+
+mongodb+srv://jontysuthar:tyC4rMwJNcK0tGZu@cluster30.npdumpc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster30
